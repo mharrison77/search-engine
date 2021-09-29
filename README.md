@@ -14,8 +14,8 @@ I wrote the following classes:
   - Returns the total number of times a word appears in all documents
 
 - Node: templated class to act as the node of the AVLTree class
- - Stores data, height, value, pointer to left child, and pointer to right child
- - Follows rule of three by including copy constructor, overloaded assignment operator, and destructor
+  - Stores data, height, value, pointer to left child, and pointer to right child
+  - Follows rule of three by including copy constructor, overloaded assignment operator, and destructor
 
 - AVLTree: templated class
   - Stores the root node, the size of the tree, and a vector of nodes
