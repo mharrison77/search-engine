@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/cmake-build-debug

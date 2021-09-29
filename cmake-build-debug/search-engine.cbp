@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="search-engine"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_engine">
+				<Option output="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/cmake-build-debug/search_engine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_engine"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="search_engine/fast">
+				<Option output="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/cmake-build-debug/search_engine" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 search_engine/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/marycateharrison/Library/Mobile\ Documents/com~apple~CloudDocs/SMU/fall\ 2020/CS\ 2341/projects/search-engine-harrison-wood/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/AVLTree.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/DocumentProcessor.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/DocumentProcessor.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/HashTable.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/IndexHandler.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/IndexHandler.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/InvertedIndex.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/InvertedIndex.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/InvertedIndexEntry.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/InvertedIndexEntry.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/Node.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/QueryProcessor.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/QueryProcessor.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/UserInterface.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/UserInterface.h">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/main.cpp">
+			<Option target="search_engine"/>
+		</Unit>
+		<Unit filename="/Users/marycateharrison/Library/Mobile Documents/com~apple~CloudDocs/SMU/fall 2020/CS 2341/projects/search-engine-harrison-wood/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
