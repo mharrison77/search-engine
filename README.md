@@ -32,8 +32,8 @@ I wrote the following classes:
   - Finds and returns top 50 most frequent words in the index
 
 - QueryProcesser:
- - Stores the query as a string, the total number of documents indexed as an int, and a vector of pairs of strings and ints that store the weight of the documents
- - Processes a query entered by the user and returns the 15 most relevant documents based on term frequency-inverse document frequency
+  - Stores the query as a string, the total number of documents indexed as an int, and a vector of pairs of strings and ints that store the weight of the documents
+  - Processes a query entered by the user and returns the 15 most relevant documents based on term frequency-inverse document frequency
   - Parses query to find simple boolean prefixes and stores the keywords associated with the corresponding boolean prefix
   - Stems the keywords to avoid prefixes and suffixes before appending them to individual vectors associated with each boolean prefix
 
