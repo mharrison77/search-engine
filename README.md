@@ -9,7 +9,7 @@ I wrote the following classes:
   - Stores a string that is the word and a vector pair of strings and ints that are the documents associated with the word
   - Returns index word and set of documents associated with the indexed word
   - Adds a document to the vector of documents
-  - Checkss if a document is in the vector of documents
+  - Checks if a document is in the vector of documents
   - Increases document's frequency if a document is added more than once
   - Returns the total number of times a word appears in all documents
 
